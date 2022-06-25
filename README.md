@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- my profile -->
-### Hello Everyone <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="`px"></span> iam ACH. Fasihul Lisan
+### Hello Everyone <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"></span> iam ACH. FASIHUL LISAN
 <br>
 
 **You can reach me at my social media account in below**
