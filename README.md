@@ -1,6 +1,6 @@
 <!-- example -->
 <!--
-**FasihLisan/FasihLisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fasihll/fasihll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **You can reach me at my social media account in below**
 
-![visitor](https://shields-io-visitor-counter.herokuapp.com/badge?page=FasihLisan.FasihLisan&label=Visitor&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=2807ba&style=for-the-badge)
+![visitor](https://shields-io-visitor-counter.herokuapp.com/badge?page=fasihll.fasihll&label=Visitor&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=2807ba&style=for-the-badge)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fasihullisan091966@gmail.com)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fasihll)
 [![](https://img.shields.io/badge/Facebook-4287f5?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100006975168155&_rdc=1&_rdr)
@@ -85,7 +85,7 @@ Hi, I'm Afif, an ordinary vocational student with interested in programming and 
 📊  **My Github Most Used Language:**
 <!--START_SECTION:waka-->
 <div align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FasihLisan&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=2496ED&icon_color=2496ED&title_color=2496ED&hide_border=true)"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasihll&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=2496ED&icon_color=2496ED&title_color=2496ED&hide_border=true)"/>
 </div>
   
 <!--END_SECTION:waka-->
@@ -106,5 +106,5 @@ Hi, I'm Afif, an ordinary vocational student with interested in programming and 
 📈 **My GitHub Stats**
 
 <div align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FasihLisan&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=2496ED&icon_color=2496ED&title_color=2496ED&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fasihll&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=2496ED&icon_color=2496ED&title_color=2496ED&hide_border=true"/>
 </div>
