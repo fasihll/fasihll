@@ -27,11 +27,12 @@ Want to know more about me? [Check out my Linkedin](https://www.linkedin.com/in/
 
 ## Current Stats
 
-|   ![Fasih github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fasihll&theme=rogue)
+|   ![Fasih github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fasihll&theme=react-dark)
 | :---: |
 
-| ![Fasih GitHub stats](https://github-readme-stats.vercel.app/api?username=fasihll&show_icons=true&theme=city_lights) | ![Fasih GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasihll&theme=city-lights) |
+| ![Fasih GitHub stats](https://github-readme-stats.vercel.app/api?username=fasihll&show_icons=true&theme=react) | ![Fasih GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasihll&theme=react) |
 | :---: | :---: |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasihll&theme=city_lights) |
-| :---: |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasihll&theme=react" alt="Top Langs" />
+</p>
